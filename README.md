@@ -31,7 +31,7 @@ Para ejecutar este proyecto se necesita tener instalado Java en tu equipo, así 
 ## Ejemplo de uso
 A continuación se muestra un ejemplo de uso de cada una de las funcionalidades disponibles
 ### 0. Menú del usuario
-<img src="https://github.com/DanniiRiiv/LiterAlura/blob/master/img/opcion1.PNG">
+<img src="https://github.com/DanniiRiiv/LiterAlura/blob/master/img/menu.PNG">
 
 ### 1. Buscar y registrar un libro mediante su título
 <img src="https://github.com/DanniiRiiv/LiterAlura/blob/master/img/opcion1.PNG">

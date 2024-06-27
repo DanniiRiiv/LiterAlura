@@ -32,7 +32,7 @@ Para ejecutar este proyecto se necesita tener instalado Java en tu equipo, así 
 A continuación se muestra un ejemplo de uso de cada una de las funcionalidades disponibles
 
 ### 1. Buscar y registrar un libro mediante su título
-<img src="https://github.com/DanniiRiiv/conversorMonedas/blob/master/imagen_2024-05-07_155643861.png">
+<img src="[https://github.com/DanniiRiiv/conversorMonedas/blob/master/imagen_2024-05-07_155643861.png](https://github.com/DanniiRiiv/LiterAlura/blob/master/img/opcion0.PNG)">
 ### 2. Mostrar todos los libros registrados en la base de datos
 <img src="https://github.com/DanniiRiiv/conversorMonedas/blob/master/imagen_2024-05-07_155643861.png">
 ### 3. Mostrar todos los autores registrados en la base de datos

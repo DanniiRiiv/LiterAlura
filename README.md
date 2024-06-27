@@ -30,6 +30,26 @@ Para ejecutar este proyecto se necesita tener instalado Java en tu equipo, así 
   
 ## Ejemplo de uso
 A continuación se muestra un ejemplo de uso de cada una de las funcionalidades disponibles
+### 0. Menú del usuario
+<img src="https://github.com/DanniiRiiv/LiterAlura/blob/master/img/opcion1.PNG">
 
 ### 1. Buscar y registrar un libro mediante su título
+<img src="https://github.com/DanniiRiiv/LiterAlura/blob/master/img/opcion1.PNG">
+
+### 2. Mostrar todos los libros registrados en la base de datos
+<img src="https://github.com/DanniiRiiv/LiterAlura/blob/master/img/opcion2.PNG">
+
+### 3. Mostrar todos los autores registrados en la base de datos
+<img src="https://github.com/DanniiRiiv/LiterAlura/blob/master/img/opcion3.PNG">
+
+### 4. Buscar los autores registrados vivos durante determinado año
+<img src="https://github.com/DanniiRiiv/LiterAlura/blob/master/img/opcion4.PNG">
+
+### 5. Buscar los libros registrados en la base de datos en determinado idioma
+<img src="https://github.com/DanniiRiiv/LiterAlura/blob/master/img/opcion5.PNG">
+
+### 6. Mostrar el top 10 libros registrados en la base de datos más descargados
+<img src="https://github.com/DanniiRiiv/LiterAlura/blob/master/img/opcion6.PNG">
+
+### 0. Salir del programa
 <img src="https://github.com/DanniiRiiv/LiterAlura/blob/master/img/opcion0.PNG">
